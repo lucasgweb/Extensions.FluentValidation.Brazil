@@ -6,7 +6,7 @@
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 
 		<PackageId>Extensions.FluentValidation.Brazil</PackageId>
-		<Version>1.0.0</Version>
+		<Version>1.0.2</Version>
 		<Authors>Lucas Godoy</Authors>
 		<Company>Lucas Godoy</Company>
 		<Description>Extensões FluentValidation para validações brasileiras (CPF, CNPJ, CEP, etc.)</Description>
@@ -21,6 +21,8 @@
 		<RepositoryType>git</RepositoryType>
 
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+
+		<UserSecretsId>0f069aa0-6000-4352-957d-5ae7ddd8fb49</UserSecretsId>
 	</PropertyGroup>
 
 	<ItemGroup>

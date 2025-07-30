@@ -20,16 +20,12 @@
 		<RepositoryUrl>https://github.com/lucasgweb/Extensions.FluentValidation.Brazil.git</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 
-		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageReadmeFile>../../README.md</PackageReadmeFile>
 
 		<UserSecretsId>0f069aa0-6000-4352-957d-5ae7ddd8fb49</UserSecretsId>
 	</PropertyGroup>
 
 	<ItemGroup>
 		<PackageReference Include="FluentValidation" Version="11.8.0" />
-	</ItemGroup>
-
-	<ItemGroup>
-		<None Include="README.md" Pack="true" PackagePath="\" />
 	</ItemGroup>
 </Project>
